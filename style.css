@@ -1,0 +1,40 @@
+#main{
+    display: flex;
+    justify-content: center;
+    position:relative;
+    /* border: 1px solid rgb(201, 196, 196); */
+}
+#iner_2{
+ position:absolute;
+ left: 100px;
+    margin: auto 5px;
+    padding: 20px;
+    background-color: rgb(230, 231, 225);
+    width: 30%;
+    border: 2px solid grey;
+}
+#inp{
+    margin-top: 35px;
+    border:0;
+    font-size: 3rem;
+    margin-left: 300px;
+}
+.btn{
+    border:0;
+    background:transparent;
+}
+.newtask{
+    border-bottom: 1px solid pink;
+    width:400px;
+    display:flex;
+    justify-content: space-between;
+    padding-right: 35px;
+}
+#iner_1{
+
+}
+
+
+.newd {
+    display: flex;
+}
